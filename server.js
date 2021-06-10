@@ -1,7 +1,7 @@
 /*
 *@autor: Rio 3D Studios
-*@description:  java script file that works as master server of the Helicopter WARZONE MMO Game
-*@date: 07/04/2020
+*@description:  java script file that works as master server of the PredatorIO Game
+*@date: 09/06/2021
 */
 var express = require('express'); //import express NodeJS framework module
 
